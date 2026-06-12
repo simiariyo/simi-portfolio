@@ -1,0 +1,224 @@
+{
+  "hero": {
+    "name": "Victoria Ariyo",
+    "roles": [
+      "Frontend Lead",
+      "Scrum Master",
+      "Product Thinker",
+      "React Developer",
+      "Team Builder"
+    ],
+    "tagline": "I build products people depend on and lead the teams that ship them.",
+    "subTagline": "4+ years at Sidmach Technologies as Frontend Lead & Scrum Master, turning complex problems into clean, working software. I care about the craft, the team, and the outcome.",
+    "location": "Lagos, Nigeria",
+    "availabilityText": "Open to new opportunities · Lagos, Nigeria",
+    "github": "https://github.com/simiariyo",
+    "linkedin": "https://linkedin.com/in/victoria-ariyo/",
+    "email": "simiariyo@gmail.com"
+  },
+  "about": {
+    "headline": "The developer who also asks \"but why are we building this?\"",
+    "paragraphs": [
+      "Hello, I'm Simi,short for Victoria Similejesu Ariyo. I'm a Frontend Lead, Scrum Master, and product-minded developer based in Lagos, Nigeria. I joined Sidmach Technologies through the NYSC programme and never left, because the problems kept getting more interesting.",
+      "My work lives at the intersection of engineering and leadership. I write React and TypeScript, run sprints, mentor junior developers, manage stakeholder expectations, and still care deeply about whether the button label is exactly right. I believe the best engineers understand the business problem as well as the technical one.",
+      "I'm currently pursuing an MBA at Ahmadu Bello University not to leave engineering, but to get sharper at the parts of the job that happen in rooms without laptops. I also hold Azure Fundamentals and Azure AI Fundamentals certifications."
+    ],
+    "stats": [
+      { "value": "4+", "label": "Years of continuous growth" },
+      { "value": "10+", "label": "Engineers led & mentored" },
+      { "value": "5", "label": "Products shipped end-to-end" },
+      { "value": "2", "label": "Microsoft Azure certifications" }
+    ],
+    "beyond": "Outside of engineering, I have a deep interest in the events and entertainment space.I love exploring what a thoughtfully designed product in that industry could look like. I also conceived ScopeAI, an idea for an AI-assisted feature scoping tool inspired by the manual scoping process I use at work."
+  },
+  "howIWork": [
+    {
+      "number": "01",
+      "title": "I scope before I code",
+      "body": "Every feature I've built started with a question: are we solving the right problem? I use a structured, manual scoping process at Sidmach; working through requirements, edge cases, and stakeholder alignment before writing a single line. It's not glamorous, but it's why our sprints don't collapse halfway through."
+    },
+    {
+      "number": "02",
+      "title": "I lead people, not just tasks",
+      "body": "As Scrum Master and Frontend Lead, I've learned that the job isn't moving tickets across a board; it's making sure every person on the team understands the why, has what they need, and feels safe raising blockers early. Velocity follows trust."
+    },
+    {
+      "number": "03",
+      "title": "I write code that future-me can read",
+      "body": "Readable, well-structured code is a team sport. I champion component documentation, and consistent naming conventions. I've onboarded new hires and mentored interns;clean code is how knowledge transfers."
+    },
+    {
+      "number": "04",
+      "title": "I own outcomes, not just deliverables",
+      "body": "Shipping a feature isn't done when the PR merges. I track whether it's being used, whether it broke something downstream, and whether it actually solved the problem it was built for. I close the loop."
+    }
+  ],
+  "projects": {
+  "shipped": [
+      {
+        "title": "ApprovalFlowV2",
+        "tag": "Sidmach · Internal",
+        "description": "A multi-role approval workflow system built for Sidmach Technologies, handling document routing across departments with role-based permissions, audit trails, and real-time status updates. Reduced manual processing steps significantly across multiple business units.",
+        "stack": [
+          "React",
+          "TypeScript",
+          "React Query",
+          "Tailwind CSS"
+        ],
+        "highlight": true,
+        "github": "",
+        "liveUrl": "",
+        "role": "Frontend Lead · Full-stack contributor",
+        "outcome": "Eliminated manual document routing across 3 business units — what took days now takes minutes."
+      },
+      {
+        "title": "Enterprise Appraisal System",
+        "tag": "Sidmach · Internal",
+        "description": "Full-cycle appraisal management platform with a template-vs-instance model, configurable dispute tiers, per-cycle toggle settings, and protected vs optional tier logic. Designed the architecture and built the frontend end-to-end.",
+        "stack": [
+          "React",
+          "TypeScript",
+          "React Query",
+          "Tailwind CSS"
+        ],
+        "highlight": false,
+        "github": "",
+        "liveUrl": "",
+        "role": "Architect · Frontend Lead",
+        "outcome": "Replaced a spreadsheet-based appraisal process with a fully configurable, dispute-aware platform."
+      },
+      {
+        "title": "WAEC-EduStat",
+        "tag": "Sidmach · Education",
+        "description": "A data analytics dashboard for education sector insights visualising student performance, institutional metrics, and trend analysis based off the WAEC data. Built within the Data Fusion Business Unit at Sidmach.",
+        "stack": [
+          "React",
+          "JavaScript",
+          "Streamlit"
+        ],
+        "highlight": false,
+        "github": "",
+        "liveUrl": "",
+        "role": "Frontend Developer · Data UI",
+        "outcome": "Deloped an analytics platform that provides diverse educational insights for different demography of users"
+      },
+      {
+        "title": "Youthplus",
+        "tag": "Sidmach · Platform",
+        "description": "Contributed to the Youthplus platform as part of the Sidmach engineering team working on frontend feature development, component architecture, and sprint delivery across multiple cycles.",
+        "stack": [
+          "React",
+          "JavaScript",
+          "React Query"
+        ],
+        "highlight": false,
+        "github": "",
+        "liveUrl": "https://apps.youthplus.ng",
+        "role": "Frontend Developer",
+        "outcome": "Delivered consistent sprint contributions across multiple cycles "
+      },
+      {
+        "title": "Chef Zee Admin",
+        "tag": "Danval Technologies · Admin Dashboard . Internal",
+        "description": "Admin dashboard built for the Chef Zee product managing orders, users, products order fulfillment and operational data. Delivered the frontend end-to-end including data tables, role management, and reporting views.",
+        "stack": [
+          "React",
+          "JavaScript",
+          "Tailwind CSS",
+          "RTK Query"
+        ],
+        "highlight": false,
+        "github": "",
+        "liveUrl": "",
+        "role": "Frontend Lead · End-to-end delivery",
+        "outcome": "Shipped a full admin dashboard from scratch including order management, transaction management, user roles, and reporting in one place."
+      }
+    ],
+    "inProgress": [
+      {
+        "title": "Celeb Wedding Platform",
+        "tag": "Personal · In progress",
+        "description": "A wedding celebration web platform with QR code guest access, photo gallery, food menu, gifting wishlist, and interactive games. Built with Next.js 14 and Supabase, designed to be a reusable template for future events.",
+        "stack": [
+          "Next.js",
+          "TypeScript",
+          "Supabase",
+          "NextAuth",
+          "Tailwind CSS"
+        ],
+        "github": "",
+        "liveUrl": "",
+        "role": "Solo Full-stack Developer",
+        "outcome": "Building a personalised guest experience platform includingQR auth, dynamic menus, and interactive wedding games."
+      },
+      {
+        "title": "ScopeAI",
+        "tag": "Personal · Concept",
+        "description": "An AI-assisted feature scoping tool inspired by the manual scoping process I've developed and use at Sidmach. The goal is to help product teams stop building the wrong thing confidently.",
+        "stack": [
+          "Next.js",
+          "TypeScript",
+          "OpenAI API",
+          "Tailwind CSS"
+        ],
+        "github": "",
+        "liveUrl": "",
+        "role": "Product Designer · Developer (planned)",
+        "outcome": "Turning a manual scoping methodology I use at Sidmach into a tool any product team can run independently."
+      },
+      {
+        "title": "DevDocs AI",
+        "tag": "Personal · Concept",
+        "description": "An AI-powered documentation generator planned as a flagship personal project to explore the intersection of developer tooling and large language models.",
+        "stack": [
+          "Next.js",
+          "TypeScript",
+          "OpenAI API",
+          "Tailwind CSS"
+        ],
+        "github": "",
+        "liveUrl": "",
+        "role": "Developer (planned)",
+        "outcome": "Exploring AI-generated process documentation — reducing the manual overhead of keeping internal docs current."
+      }
+    ]
+  },
+  "skills": {
+    "core": [
+      {
+        "category": "Frontend",
+        "skills": [
+          "React",
+          "TypeScript",
+          "Tailwind CSS",
+          "Redux Toolkit",
+          "React Query",
+          "HTML5 / CSS3"
+        ]
+      },
+      {
+        "category": "DevOps & Cloud",
+        "skills": ["Azure DevOps", "Git / GitHub", "Vercel"]
+      },
+      {
+        "category": "Process & Tools",
+        "skills": ["Scrum / Agile", "Sprint Planning", "Figma", "VS Code"]
+      }
+    ],
+    "learning": [
+      "Next.js App Router",
+      "Jest / React Testing Library"
+    ],
+    "certifications": [
+      "Microsoft Azure Fundamentals (AZ-900)",
+      "Microsoft Azure AI Fundamentals (AI-900)"
+    ]
+  },
+  "contact": {
+    "heading": "Let's build something worth building.",
+    "subheading": "I'm open to Frontend Lead, Scrum Master, and product-minded developer roles. If you're looking for someone who ships clean code and keeps a team aligned — let's talk.",
+    "email": "simiariyo@gmail.com",
+    "linkedin": "https://linkedin.com/in/victoria-ariyo/",
+    "github": "https://github.com/simiariyo"
+  }
+}
