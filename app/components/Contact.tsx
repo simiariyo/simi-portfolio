@@ -1,9 +1,9 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
-import { Mail, Link2, GitFork, MapPin } from "lucide-react";
+import { Mail, Link2, MapPin } from "lucide-react";
 import content from "@/content.json";
 
-const { heading, subheading, email, linkedin, github } = content.contact;
+const { heading, subheading, email, linkedin,  } = content.contact;
 
 export default function Contact() {
   const ref = useRef<HTMLDivElement>(null);
