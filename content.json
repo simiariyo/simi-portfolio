@@ -19,7 +19,7 @@
   "about": {
     "headline": "The developer who also asks \"but why are we building this?\"",
     "paragraphs": [
-      "Hello, I'm Simi,short for Victoria Similejesu Ariyo. I'm a Frontend Lead, Scrum Master, and product-minded developer based in Lagos, Nigeria. I joined Sidmach Technologies through the NYSC programme and never left, because the problems kept getting more interesting.",
+      "Hello, I'm Simi, short for Victoria Similejesu Ariyo. I'm a Frontend Lead, Scrum Master, and product-minded developer based in Lagos, Nigeria. I joined Sidmach Technologies through the NYSC programme and never left, because the problems kept getting more interesting.",
       "My work lives at the intersection of engineering and leadership. I write React and TypeScript, run sprints, mentor junior developers, manage stakeholder expectations, and still care deeply about whether the button label is exactly right. I believe the best engineers understand the business problem as well as the technical one.",
       "I'm currently pursuing an MBA at Ahmadu Bello University not to leave engineering, but to get sharper at the parts of the job that happen in rooms without laptops. I also hold Azure Fundamentals and Azure AI Fundamentals certifications."
     ],
@@ -45,7 +45,7 @@
     {
       "number": "03",
       "title": "I write code that future-me can read",
-      "body": "Readable, well-structured code is a team sport. I champion component documentation, and consistent naming conventions. I've onboarded new hires and mentored interns;clean code is how knowledge transfers."
+      "body": "Readable, well-structured code is a team sport. I champion component documentation, and consistent naming conventions. I've onboarded new hires and mentored interns. A clean code is how knowledge transfers."
     },
     {
       "number": "04",
@@ -119,7 +119,7 @@
       },
       {
         "title": "Chef Zee Admin",
-        "tag": "Danval Technologies · Admin Dashboard . Internal",
+        "tag": "Danval Technologies · Admin Dashboard",
         "description": "Admin dashboard built for the Chef Zee product managing orders, users, products order fulfillment and operational data. Delivered the frontend end-to-end including data tables, role management, and reporting views.",
         "stack": [
           "React",
@@ -216,7 +216,7 @@
   },
   "contact": {
     "heading": "Let's build something worth building.",
-    "subheading": "I'm open to Frontend Lead, Scrum Master, and product-minded developer roles. If you're looking for someone who ships clean code and keeps a team aligned — let's talk.",
+    "subheading": "I'm open to Frontend Lead, Scrum Master, and product-minded developer roles. If you're looking for someone who ships clean code and keeps a team aligned. Let's talk.",
     "email": "simiariyo@gmail.com",
     "linkedin": "https://linkedin.com/in/victoria-ariyo/",
     "github": "https://github.com/simiariyo"

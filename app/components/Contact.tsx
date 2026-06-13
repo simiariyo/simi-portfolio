@@ -44,7 +44,7 @@ export default function Contact() {
           <div className="flex flex-col gap-4 mb-20">
             <div className="flex items-center gap-3 text-cream-muted">
               <MapPin size={16} className="text-teal flex-shrink-0" />
-              <span className="text-sm">Lagos, Nigeria · Available for on-site roles</span>
+              <span className="text-sm">Lagos, Nigeria · Open to Hybrid, Remote & Global opportunities</span>
             </div>
             <div className="flex items-center gap-3 text-cream-muted">
               <Link2 size={16} className="text-teal flex-shrink-0" />
